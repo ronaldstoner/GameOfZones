@@ -41,7 +41,7 @@ printf "\033[32;1m\n\n[+] Stoner's GoZ KeepAlive Script - Phase 1\n[+] Github - 
 
     else
 	    #printf "don't run";
-	    dumb_var=1 	# Dumb loop logic, or else error. Didn't feel like wewriting if statement every debug attempt
+	    dumb_var=1 	# Dumb loop logic, or else error. Didn't feel like rewriting if statement every debug attempt
     fi
 	
     sleep 5; #Loop every 5 seconds
